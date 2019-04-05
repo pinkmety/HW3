@@ -1,14 +1,14 @@
 #Домашняя работа
-<B>Устаревшие слова из текста: дубрава, глас, седалище</B>
-<I>1. Дубрава</I>
+<B><br>Устаревшие слова из текста: дубрава, глас, седалище</br></B>
+<I><br>1. Дубрава</br></I>
 ![dubrava](https://user-images.githubusercontent.com/46744556/55622789-d3710600-57a9-11e9-96f5-c984d1ecbcd4.PNG)
 * IPM для слова: 1,9
-<i>Современный аналог: трава</i>
+<i><br>Современный аналог: трава</br></i>
 ![trava](https://user-images.githubusercontent.com/46744556/55622956-4e3a2100-57aa-11e9-805e-6dc78af932ce.PNG)
 * Google Ngrams: 
 ![travadubrava](https://user-images.githubusercontent.com/46744556/55623113-b4bf3f00-57aa-11e9-99f7-97374dd16b84.PNG)
 <i>Таким образом, видно то, что слово "дубрава" в его первоначальном лексическом значении используется в наше время редко - ему на замену пришла "трава".</i>
-<b>Работа с AntConc</b>
+<b><br>Работа с AntConc</br></b>
 * Конкорданс:
 ![dubrava1](https://user-images.githubusercontent.com/46744556/55653870-781a3480-57f8-11e9-85ba-29bfef904bef.PNG)
 * Частотный список: 
