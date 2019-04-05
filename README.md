@@ -12,7 +12,9 @@ Google Ngrams:
 * Конкорданс:
 ![dubrava1](https://user-images.githubusercontent.com/46744556/55653870-781a3480-57f8-11e9-85ba-29bfef904bef.PNG)
 * Частотный список: 
-![dubrava](https://user-images.githubusercontent.com/46744556/55653952-ab5cc380-57f8-11e9-9f86-22e869adb179.PNG)
+![дубрава2](https://user-images.githubusercontent.com/46744556/55653943-a5ff7900-57f8-11e9-8b75-cd412dc31b55.PNG)
+* Коллокаты:
+![дубраваа](https://user-images.githubusercontent.com/46744556/55654071-0a223d00-57f9-11e9-8376-3df760bb2c02.PNG)
 
 2. Глас
 * ![глас НКРЯ](https://user-images.githubusercontent.com/46744556/55653650-db579700-57f7-11e9-97bd-4f83ea8ae400.PNG)
@@ -22,6 +24,14 @@ IPM для слова: 9,18
 Google Ngrams:
 * ![глас4](https://user-images.githubusercontent.com/46744556/55653785-40ab8800-57f8-11e9-91eb-007a588816ad.PNG)
 Таким образом,
+AntConc
+* Конкорданс:
+![глас1](https://user-images.githubusercontent.com/46744556/55654151-4a81bb00-57f9-11e9-8398-d60d7ab3b8da.PNG)
+* Частотный список: 
+![глас2](https://user-images.githubusercontent.com/46744556/55654165-566d7d00-57f9-11e9-8486-e7068d3b912c.PNG)
+* Коллокаты: 
+![глас3](https://user-images.githubusercontent.com/46744556/55654199-6a18e380-57f9-11e9-9d6e-ecd6a3edc44e.PNG)
+
 3. Седалище
 
 
